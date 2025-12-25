@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moo-afu.pages.dev/sitemap.xml
